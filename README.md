@@ -8,7 +8,8 @@ Permite administrar tareas con prioridades, buscarlas, editarlas, eliminarlas y 
 ## Objetivo del proyecto
 
 Desarrollar una aplicación en Flutter aplicando el patrón **Provider** para gestionar el estado de manera eficiente,
-permitiendo la actualización automática de la interfaz cuando se modifica la lista de tareas.
+permitiendo la actualización automática de la interfaz cuando se modifica la lista de tareas. Esta se puede codificar 
+en android studio.
 
 ---
 
