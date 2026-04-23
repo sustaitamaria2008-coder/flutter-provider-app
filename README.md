@@ -5,24 +5,24 @@ Permite administrar tareas con prioridades, buscarlas, editarlas, eliminarlas y 
 
 ---
 
-## 🎯 Objetivo del proyecto
+## Objetivo del proyecto
 
 Desarrollar una aplicación en Flutter aplicando el patrón **Provider** para gestionar el estado de manera eficiente,
 permitiendo la actualización automática de la interfaz cuando se modifica la lista de tareas.
 
 ---
 
-## 📸 Capturas de la aplicación
+## Capturas de la aplicación
 
-### 🏠 Pantalla principal
+### Pantalla principal
 ![Pantalla Principal](assets/screenshots/home.jpg)
 
-### 📊 Pantalla de estadísticas
+### Pantalla de estadísticas
 ![Pantalla Estadísticas](assets/screenshots/stats.jpg)
 
 ---
 
-## ✅ Funciones principales
+## Funciones principales
 
 - Agregar tareas con prioridad (Alta, Normal, Baja)
 - Marcar tareas como completadas
@@ -35,7 +35,7 @@ permitiendo la actualización automática de la interfaz cuando se modifica la l
 
 ---
 
-## 🧠 Implementación de Provider (según documento)
+## Implementación de Provider (según documento)
 
 Este proyecto utiliza los conceptos principales de la librería Provider:
 
@@ -47,7 +47,7 @@ Este proyecto utiliza los conceptos principales de la librería Provider:
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Flutter
 - Dart
@@ -56,7 +56,7 @@ Este proyecto utiliza los conceptos principales de la librería Provider:
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 ```txt
 lib/
