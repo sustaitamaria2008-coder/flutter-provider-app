@@ -71,23 +71,23 @@ lib/
 
 ## Instalación y ejecución
 
-# 1. Clonar repositorio
+### 1. Clonar repositorio
 
 ```bash
 git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
 ```
 
-# 2. Entrar al proyecto
+### 2. Entrar al proyecto
 ```bash
 cd TU_REPOSITORIO
 ```
 
-# 3. Instalar dependencias
+### 3. Instalar dependencias
 ```bash
 flutter pub get
 ```
 
-# 4. Ejecutar la aplicación
+### 4. Ejecutar la aplicación
 ```
 flutter run
 ```
@@ -95,8 +95,8 @@ flutter run
 ---
 
 ## Autor
-Maria del Rosario Sustaita Juarez
-6-A, Programacion
+- Maria del Rosario Sustaita Juarez
+- 6-A, Programacion
 
 
 
